@@ -155,74 +155,76 @@ IMAGE MEMBRE
 
 ![stock](img/stock.png)
 
+<br><br><br>
 
-IMAGE ADMIN
 
-![add_content](img/add_content.png)
+# =========IMAGE ADMIN=========
 
-<br>
-
-![annonce](img/annonce.png)
+![add_content](img/admin/add_content.png)
 
 <br>
 
-![api](img/api.png)
+![annonce](img/admin/annonce.png)
 
 <br>
 
-![coins](img/coins.png)
+![api](img/admin/api.png)
 
 <br>
 
-![collection](img/collection.png)
+![coins](img/admin/coins.png)
 
 <br>
 
-![doc](img/doc.png)
+![collection](img/admin/collection.png)
 
 <br>
 
-![gestion_ip](img/gestion_ip.png)
+![doc](img/admin/doc.png)
 
 <br>
 
-![gestion_open_source](img/gestion_open_source.png)
+![gestion_ip](img/admin/gestion_ip.png)
 
 <br>
 
-![license](img/license.png)
+![gestion_open_source](img/admin/gestion_open_source.png)
 
 <br>
 
-![logs_api](img/logs_api.png)
+![license](img/admin/license.png)
 
 <br>
 
-![membre](img/membre.png)
+![logs_api](img/admin/logs_api.png)
 
 <br>
 
-![open_source](img/open_source.png)
+![membre](img/admin/membre.png)
 
 <br>
 
-![panel](img/panel.png)
+![open_source](img/admin/open_source.png)
 
 <br>
 
-![purge](img/purge.png)
+![panel](img/admin/panel.png)
 
 <br>
 
-![score_gen](img/score_gen.png)
+![purge](img/admin/purge.png)
 
 <br>
 
-![suggestion](img/suggestion.png)
+![score_gen](img/admin/score_gen.png)
 
 <br>
 
-![syncro](img/syncro.png)
+![suggestion](img/admin/suggestion.png)
+
+<br>
+
+![syncro](img/admin/syncro.png)
 
 
 ---
